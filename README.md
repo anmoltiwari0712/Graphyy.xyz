@@ -22,10 +22,9 @@ Paste any recursive function written in **C++**, **Python**, or **Java**, and Gr
 
 ## 🎬 Product Launch Video
 
-https://github.com/user-attachments/assets/
+[![Watch Product Launch Video](assets/video-preview.png)](https://github.com/anmoltiwari0712/Graphyy.xyz/releases/download/v1.0.0/graphyy-product-launch.mp4)
 
-The official launch demonstration video is included in this repository:
-- **Direct Video File**: [assets/graphyy-product-launch.mp4](assets/graphyy-product-launch.mp4)
+> 💡 **Click the preview above to play the official launch demo video**, or download the source video: [assets/graphyy-product-launch.mp4](assets/graphyy-product-launch.mp4).
 
 ---
 
